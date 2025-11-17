@@ -18,7 +18,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 - 📫 How to reach me:
 - **[3405689090@qq.com](mailto:3405689090@qq.com)**
 - **[pancake_home@163.com](mailto:pancake_home@163.com)**
-- **[BiliBili](mailto:https://space.bilibili.com/312264490?spm_id_from=333.1007.0.0)**
+- **[BiliBili@DBJD-CR](mailto:https://space.bilibili.com/312264490?spm_id_from=333.1007.0.0)**
 
 ---
 
@@ -28,7 +28,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 <p align="center">
   <!-- WakaTime Badge - 你需要将这里的 user 和 @ 后面的 ID 替换为你自己的 -->
   <a href="https://wakatime.com/@DBJD_CR">
-    <img src="https://wakatime.com/badge/user/DBJD_CR.svg" alt="wakatime">
+    <img src="https://wakatime.com/badge/user/937a1541-5b9b-4101-b7bb-6f8f295e0a3e.svg" alt="wakatime">
   </a>
   <!-- Profile Views Counter -->
   <a href="https://github.com/DBJD-CR">
@@ -91,5 +91,5 @@ No Activity Tracked This Week
 <!-- Skill Icons -->
 <p align="center">
   <!-- 在 i=... 后面，添加或删除你熟悉的技术的图标名称，用逗号分隔 -->
-  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,html" />
 </p>
