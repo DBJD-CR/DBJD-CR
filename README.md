@@ -41,42 +41,10 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-🌆 Daytime                12 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-🌃 Evening                34 commits          ███████████████░░░░░░░░░░   60.71 % 
-🌙 Night                  5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   15 commits          ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Tuesday                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Saturday                 9 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   17 commits          ████████░░░░░░░░░░░░░░░░░   30.36 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 2025年11月17日 20:34:04 UTC
+ Last Updated on 2025年11月18日 01:02:24 UTC
 <!--END_SECTION:waka-->
 
   <!-- GitHub Stats - 你可以将 theme 更换为 'dark', 'radical', 'merko', 'gruvbox' 等你喜欢的主题 -->
