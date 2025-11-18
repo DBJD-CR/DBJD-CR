@@ -28,7 +28,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 <p align="center">
   <!-- WakaTime Badge - 你需要将这里的 user 和 @ 后面的 ID 替换为你自己的 -->
   <a href="https://wakatime.com/@DBJD_CR">
-    <img src="https://wakatime.com/badge/user/937a1541-5b9b-4101-b7bb-6f8f295e0a3e.svg" alt="wakatime">
+    <img src="https://wakatime.com/badge/user/498cb183-fef3-4607-913d-2d4a141733f9.svg" alt="wakatime">
   </a>
   <!-- Profile Views Counter -->
   <a href="https://github.com/DBJD-CR">
@@ -41,6 +41,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
