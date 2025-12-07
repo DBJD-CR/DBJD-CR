@@ -12,9 +12,15 @@
 
 I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探索者。目前正在学习多个与 AI 相关的项目！
 
-我目前正在维护 [**astrbot_plugin_proactive_chat**](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) 这个项目，一个 `AstrBot` 主动消息插件。
+我目前正在维护 [**主动消息**](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat) 这个项目，一个 AstrBot 插件。它能让你的 Bot 在特定的会话长时间没有新消息后，用一个随机的时间间隔，主动发起一次拥有上下文感知、符合人设且包含动态情绪的对话。
+
+如果你感兴趣，欢迎来看看我的新插件（[**灾害预警**](http://github.com/DBJD-CR/astrbot_plugin_disaster_warning)）！
+
+这是一个 AstrBot 多数据源灾害预警插件，使用 AI 开发，支持地震、海啸、气象预警实时推送。集成中国地震台网、中国气象局气象预警、台湾中央气象署、日本气象厅、USGS、Global Quake等多个数据源。
+
 - 🔭 I’m currently working on **[proactive-chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat)**, a plugin for [AstrBot](https://github.com/AstrBotDevs/AstrBot) that gives AI a soul, allowing it to initiate conversations proactively.
-- 🌱 I’m currently learning more about Python, and the architecture of large-scale AI applications.
+- ✨ If you're interested, feel free to take a look at my new plugin [**disaster-warning**](http://github.com/DBJD-CR/astrbot_plugin_disaster_warning),  It's a AstrBot's multi-data source disaster warning plugin, developed using AI, supports real-time push notifications for earthquake, tsunami, and meteorological warnings. It integrates multiple data sources such as CENC、CMA、CWA、JMA、USGS、Global Quake.
+- 🌱 I’m currently learning more about Python, and the architecture of large-scale AI applications. (Vibe Coding)
 - 📫 How to reach me:
 - **[3405689090@qq.com](mailto:3405689090@qq.com)**
 - **[pancake_home@163.com](mailto:pancake_home@163.com)**
@@ -85,8 +91,8 @@ Git                      32 mins             ░░░░░░░░░░░�
 
   <!-- GitHub Stats - 你可以将 theme 更换为 'dark', 'radical', 'merko', 'gruvbox' 等你喜欢的主题 -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DBJD-CR&show_icons=true&theme=transparent&count_private=true" alt="DBJD-CR's GitHub stats" />
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DBJD-CR&show_icons=true&theme=transparent&count_private=true" alt="DBJD-CR's GitHub stats">
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats">
   </p>
 </details>
 
