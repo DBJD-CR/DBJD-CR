@@ -102,5 +102,5 @@ Git                      26 mins             ░░░░░░░░░░░�
 <!-- Skill Icons -->
 <p align="center">
   <!-- 在 i=... 后面，添加或删除你熟悉的技术的图标名称，用逗号分隔 -->
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,html" />
+  <img src="https://skillicons.dev/icons?i=python,markdown,js,github,vscode,html,windows" />
 </p>
