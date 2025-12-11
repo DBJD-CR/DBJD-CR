@@ -92,8 +92,8 @@ Git                      26 mins             ░░░░░░░░░░░�
   <!-- GitHub Stats - 你可以将 theme 更换为 'dark', 'radical', 'merko', 'gruvbox' 等你喜欢的主题 -->
 <a href="#">
   <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=DBJD-CR&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
+  <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" />
 </a>
-</details>
 
 ---
 
