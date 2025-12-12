@@ -18,9 +18,10 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 
 这是一个 AstrBot 多数据源灾害预警插件，使用 AI 开发，支持地震、海啸、气象预警实时推送。集成中国地震台网、中国气象局气象预警、台湾中央气象署、日本气象厅、USGS、Global Quake等多个数据源。
 
-- 🔭 I’m currently working on **[proactive-chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat)**, a plugin for [AstrBot](https://github.com/AstrBotDevs/AstrBot) that gives AI a soul, allowing it to initiate conversations proactively.
-- ✨ If you're interested, feel free to take a look at my new plugin [**disaster-warning**](http://github.com/DBJD-CR/astrbot_plugin_disaster_warning),  It's a AstrBot's multi-data source disaster warning plugin, developed using AI, supports real-time push notifications for earthquake, tsunami, and meteorological warnings. It integrates multiple data sources such as CENC、CMA、CWA、JMA、USGS、Global Quake.
-- 🌱 I’m currently learning more about Python, and the architecture of large-scale AI applications. (Vibe Coding)
+- 👋 I'm **DBJD-CR** (you can simply call me "Pancake"), an explorer passionate about the open-source community and exploring the potential of AI development. Currently, I am learning multiple AI-related projects!
+- 🔭 I’m currently working on **[proactive-chat](https://github.com/DBJD-CR/astrbot_plugin_proactive_chat)** , a plugin for [AstrBot](https://github.com/AstrBotDevs/AstrBot) . It allows your Bot to proactively initiate a context-aware, persona-fitting, and dynamically emotional conversation after a specific session has been idle for a long time, with a random time interval.
+- ✨ If you're interested, feel free to take a look at my new plugin [**disaster-warning**](http://github.com/DBJD-CR/astrbot_plugin_disaster_warning) ,  It's a AstrBot's multi-data source disaster warning plugin, developed using AI, supports real-time push notifications for earthquake, tsunami, and meteorological warnings. It integrates multiple data sources such as CENC、CMA、CWA、JMA、USGS、Global Quake.
+- 🌱 I’m currently learning more about Python, and the architecture of large-scale AI applications (Vibe Coding).
 - 📫 How to reach me:
 - **[3405689090@qq.com](mailto:3405689090@qq.com)**
 - **[pancake_home@163.com](mailto:pancake_home@163.com)**
@@ -48,8 +49,6 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2018%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **I'm a Night 🦉** 
 
@@ -89,9 +88,17 @@ Git                      26 mins             ░░░░░░░░░░░�
  Last Updated on 2025年12月12日 09:01:49 UTC
 <!--END_SECTION:waka-->
 
-  <!-- GitHub Stats - 你可以将 theme 更换为 'dark', 'radical', 'merko', 'gruvbox' 等你喜欢的主题 -->
+  <!-- GitHub Stats -->
+<a href="https://github.com/DBJD-CR/DBJD-CR">
+  <img align="center" width="400" height="250" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DBJD-CR&layout=compact&langs_count=10" />
+</a>
+
 <a href="#">
-  <img align="center" width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" /><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=DBJD-CR&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
+  <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=DBJD-CR&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
+</a>
+
+<a href="#">
+  <img align="center" width="450" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" />
 </a>
 
 ---
@@ -101,5 +108,5 @@ Git                      26 mins             ░░░░░░░░░░░�
 <!-- Skill Icons -->
 <p align="center">
   <!-- 在 i=... 后面，添加或删除你熟悉的技术的图标名称，用逗号分隔 -->
-  <img src="https://skillicons.dev/icons?i=python,markdown,js,github,vscode,html,windows" />
+  <img src="https://skillicons.dev/icons?i=python,markdown,js,html,github,vscode,windows" />
 </p>
