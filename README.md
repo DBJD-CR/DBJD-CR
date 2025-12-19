@@ -90,18 +90,21 @@ Git                      29 mins             █░░░░░░░░░░�
  Last Updated on 2025年12月19日 09:01:49 UTC
 <!--END_SECTION:waka-->
 
-  <!-- GitHub Stats -->
+<!-- GitHub Stats -->
+<a href="#">
+  <img align="center" width="450" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" />
+</a>
+
 <a href="https://github.com/DBJD-CR/DBJD-CR">
   <img align="center" width="400" height="250" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DBJD-CR&layout=compact&langs_count=10" />
 </a>
+</details>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=DBJD-CR&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
 </a>
 
-<a href="#">
-  <img align="center" width="450" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" />
-</a>
+---
 
 <!-- 贪吃蛇动画 -->
 <picture>
@@ -110,10 +113,7 @@ Git                      29 mins             █░░░░░░░░░░�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DBJD-CR/DBJD-CR/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
 ### 🛠️ Technologies & Tools
-
 <!-- Skill Icons -->
 <p align="center">
   <!-- 在 i=... 后面，添加或删除你熟悉的技术的图标名称，用逗号分隔 -->
