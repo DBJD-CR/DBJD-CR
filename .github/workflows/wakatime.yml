@@ -18,12 +18,13 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # v1.0.0 新增: 自定义更新日期的格式
-          UPDATED_DATE_FORMAT: "%Y年%m月%d日 %H:%M:%S"
+          UPDATED_DATE_FORMAT: "%Y年%m月%d日 %H:%M:%S UTC+8"
           # --- 以下是保持不变的、用于精简输出的配置 ---
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "False"
-          SHOW_TIMEZONE: "True" # 我们可以让它显示时区，以确认设置成功
-          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "False" # 我们已经在格式里手动指定了 UTC+8，所以这里关掉，避免重复显示
+          SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
