@@ -75,24 +75,24 @@ Sunday                   107 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.79 % 
-Markdown                 2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-HTML                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-JavaScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-CSS                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Markdown                 2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+HTML                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+JavaScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+CSS                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-实训H5                     4 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.34 % 
-astrbot_plugin_disaster_w1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-astrbot_plugin_proactive_1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-astrbot                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-OKComputer_Deployment_EEW28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+实训H5                     4 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.30 % 
+astrbot_plugin_proactive_1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+astrbot_plugin_disaster_w1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+astrbot                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+OKComputer_Deployment_EEW28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Windows                  9 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +106,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年01月19日 09:08:30 UTC+8 UTC
+ Last Updated on 2026年01月20日 09:03:22 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
