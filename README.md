@@ -48,7 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2043%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,23 +75,23 @@ Sunday                   107 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.96 % 
-Python                   2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
-HTML                     1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Git                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Python                   4 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.67 % 
+Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+HTML                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Git                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_4 hrs 53 mins       █████████████████░░░░░░░░   67.21 % 
-astrbot_plugin_disaster_w1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-astrbot                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-OKComputer_Deployment_EEW28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+astrbot_plugin_disaster_w6 hrs 38 mins       ███████████████░░░░░░░░░░   60.20 % 
+astrbot_plugin_proactive_4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.40 % 
+astrbot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+OKComputer_Deployment_EEW0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年01月24日 09:02:57 UTC+8 UTC
+ Last Updated on 2026年01月25日 09:11:10 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
