@@ -48,26 +48,26 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-🌆 Daytime                270 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-🌃 Evening                734 commits         ██████████████░░░░░░░░░░░   56.94 % 
-🌙 Night                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌞 Morning                110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+🌆 Daytime                326 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+🌃 Evening                876 commits         ██████████████░░░░░░░░░░░   55.13 % 
+🌙 Night                  277 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Tuesday                  124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Wednesday                178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Friday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Saturday                 263 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Sunday                   313 commits         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Monday                   172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Tuesday                  146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Wednesday                215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Thursday                 140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Friday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 325 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Sunday                   392 commits         ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
 ```
 
 
@@ -75,23 +75,23 @@ Sunday                   313 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.99 % 
-Python                   6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
-YAML                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-JSON                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   10 hrs 24 mins      ███████████░░░░░░░░░░░░░░   42.45 % 
+Markdown                 6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+JSON                     3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+YAML                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w18 hrs 12 mins      ██████████████████████░░░   89.41 % 
-astrbot                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-astrbot_plugin_opencode  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-astrbot_plugin_proactive_1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+astrbot_plugin_disaster_w21 hrs 25 mins      ██████████████████████░░░   87.44 % 
+astrbot                  2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+astrbot_plugin_opencode  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+astrbot_plugin_proactive_1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  20 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年02月04日 09:13:53 UTC+8 UTC
+ Last Updated on 2026年02月05日 09:14:46 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
