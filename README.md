@@ -48,26 +48,26 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-🌆 Daytime                298 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-🌃 Evening                860 commits         ██████████████░░░░░░░░░░░   56.10 % 
-🌙 Night                  287 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+🌞 Morning                88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+🌆 Daytime                298 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+🌃 Evening                860 commits         ██████████████░░░░░░░░░░░   55.41 % 
+🌙 Night                  306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Tuesday                  152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Wednesday                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Thursday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Friday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Saturday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Sunday                   363 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Monday                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Tuesday                  152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Wednesday                170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Thursday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Friday                   249 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Saturday                 232 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Sunday                   373 commits         ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
 ```
 
 
@@ -75,21 +75,22 @@ Sunday                   363 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         ████████████████░░░░░░░░░   64.23 % 
-Python                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-JavaScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Python                   1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   35.91 % 
+Markdown                 1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+JavaScript               48 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_1 hr 15 mins        █████████████████░░░░░░░░   69.30 % 
-astrbot_plugin_disaster_w33 mins             ████████░░░░░░░░░░░░░░░░░   30.70 % 
+astrbot_plugin_disaster_w3 hrs 9 mins        ████████████████████░░░░░   80.03 % 
+astrbot_plugin_proactive_42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+astrbot                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +104,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年02月22日 09:19:48 UTC+8 UTC
+ Last Updated on 2026年02月23日 09:18:35 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
