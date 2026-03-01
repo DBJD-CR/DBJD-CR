@@ -75,21 +75,21 @@ Sunday                   373 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Markdown                 7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-JavaScript               5 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Git                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Python                   8 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
+Markdown                 7 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+JavaScript               5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Git                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  28 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w28 hrs 1 min        █████████████████████████   99.69 % 
+astrbot_plugin_disaster_w28 hrs 3 mins       █████████████████████████   99.69 % 
 astrbot                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  28 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  28 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年02月28日 09:09:55 UTC+8 UTC
+ Last Updated on 2026年03月01日 09:25:19 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
