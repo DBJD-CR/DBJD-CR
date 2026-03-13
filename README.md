@@ -48,7 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2041%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,16 +75,18 @@ Sunday                   438 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 mins              █████████████████████████   100.00 % 
+Markdown                 1 hr 11 mins        ███████████████████░░░░░░   76.56 % 
+Python                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_4 mins              █████████████████████████   100.00 % 
+astrbot_plugin_proactive_1 hr 21 mins        ██████████████████████░░░   88.04 % 
+astrbot_plugin_disaster_w11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -98,7 +100,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年03月12日 09:11:52 UTC+8 UTC
+ Last Updated on 2026年03月13日 09:16:44 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
