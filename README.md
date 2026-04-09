@@ -75,22 +75,22 @@ Sunday                   824 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 15 mins        ██████████░░░░░░░░░░░░░░░   40.99 % 
-Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   28.31 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-HTML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Git                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Python                   27 mins             █████████░░░░░░░░░░░░░░░░   34.12 % 
+Markdown                 22 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+HTML                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Git                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_2 hrs 52 mins       ███████████████████████░░   93.25 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-传播学原理                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+astrbot_plugin_proactive_1 hr 8 mins         █████████████████████░░░░   84.50 % 
+Unknown Project          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+传播学原理                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +105,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年04月08日 09:29:17 UTC+8 UTC
+ Last Updated on 2026年04月09日 09:20:34 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
