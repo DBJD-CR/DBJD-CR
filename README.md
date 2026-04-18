@@ -48,49 +48,6 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2054%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                186 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-🌆 Daytime                726 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-🌃 Evening                2257 commits        ██████████████░░░░░░░░░░░   54.27 % 
-🌙 Night                  990 commits         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   480 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Tuesday                  516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                609 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 597 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   628 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Saturday                 452 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Sunday                   877 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   19 hrs 26 mins      ███████████████████████░░   91.36 % 
-Git                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Diff                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-🔥 Editors: 
-VS Code                  21 hrs 17 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-astrbot_plugin_disaster_w21 hrs 17 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  21 hrs 17 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,7 +60,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年04月17日 09:48:15 UTC+8 UTC
+ Last Updated on 2026年04月18日 09:27:10 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
