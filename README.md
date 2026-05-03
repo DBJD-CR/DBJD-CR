@@ -48,7 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,20 +75,21 @@ Sunday                   1181 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 50 mins       ██████████████████░░░░░░░   70.09 % 
-Other                    1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Git                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   2 hrs 16 mins       ███████████████░░░░░░░░░░   61.65 % 
+Other                    1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Git                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w8 hrs 20 mins       █████████████████████████   100.00 % 
+astrbot_plugin_disaster_w3 hrs 26 mins       ███████████████████████░░   93.34 % 
+astrbot_plugin_proactive_14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 
 💻 Operating System: 
-Windows                  8 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +104,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年05月02日 09:57:42 UTC+8 UTC
+ Last Updated on 2026年05月03日 10:00:44 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
