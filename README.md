@@ -48,7 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2034%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,21 +75,21 @@ Sunday                   1304 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
-Python                   4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Markdown                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Other                    5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
+Python                   4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Markdown                 2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_9 hrs 17 mins       █████████████████░░░░░░░░   66.82 % 
-astrbot_plugin_disaster_w4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
+astrbot_plugin_proactive_9 hrs 42 mins       █████████████████░░░░░░░░   66.43 % 
+astrbot_plugin_disaster_w4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
 
 💻 Operating System: 
-Windows                  13 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -104,7 +104,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026年05月06日 10:02:07 UTC+8 UTC
+ Last Updated on 2026年05月07日 10:04:01 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
