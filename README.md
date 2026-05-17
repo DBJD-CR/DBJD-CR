@@ -48,7 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,23 +75,22 @@ Sunday                   1319 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.75 % 
-Other                    6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-CSS                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other                    5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+Python                   4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
+CSS                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w15 hrs 17 mins      ███████████████████░░░░░░   76.94 % 
-astrbot_plugin_miochat   4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-astrbot_plugin_helloworld25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-astrbot_plugin_proactive_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+astrbot_plugin_disaster_w15 hrs 17 mins      ████████████████████████░   97.84 % 
+astrbot_plugin_miochat   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+astrbot_plugin_proactive_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  19 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年05月16日 10:07:23 UTC+8 UTC
+ Last Updated on 2026年05月17日 10:11:23 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
