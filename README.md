@@ -48,50 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2019%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-🌆 Daytime                1093 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-🌃 Evening                3548 commits        ██████████████░░░░░░░░░░░   55.72 % 
-🌙 Night                  1482 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Tuesday                  752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Wednesday                979 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Thursday                 886 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Friday                   890 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Sunday                   1319 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
-Python                   4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
-CSS                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Markdown                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 37 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-astrbot_plugin_disaster_w15 hrs 17 mins      ████████████████████████░   97.84 % 
-astrbot_plugin_miochat   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-astrbot_plugin_proactive_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-💻 Operating System: 
-Windows                  15 hrs 37 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2021%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -106,7 +63,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年05月17日 10:11:23 UTC+8 UTC
+ Last Updated on 2026年05月18日 10:32:28 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
