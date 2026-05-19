@@ -48,7 +48,50 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2033%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+🌆 Daytime                1093 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌃 Evening                3549 commits        ██████████████░░░░░░░░░░░   55.72 % 
+🌙 Night                  1482 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Tuesday                  752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Wednesday                979 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Thursday                 886 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   891 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Saturday                 725 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Sunday                   1319 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    7 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+Python                   4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+CSS                      3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+JavaScript               3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+
+🔥 Editors: 
+VS Code                  22 hrs 18 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+astrbot_plugin_disaster_w22 hrs 5 mins       █████████████████████████   99.03 % 
+astrbot_plugin_miochat   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+astrbot_plugin_proactive_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  22 hrs 18 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -63,7 +106,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年05月18日 10:32:28 UTC+8 UTC
+ Last Updated on 2026年05月19日 10:31:53 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
