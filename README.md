@@ -48,49 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2036%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-🌆 Daytime                972 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌃 Evening                3514 commits        ██████████████░░░░░░░░░░░   56.15 % 
-🌙 Night                  1587 commits        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  618 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Wednesday                1030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Thursday                 852 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Friday                   810 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 999 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Sunday                   1228 commits        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.62 % 
-Markdown                 4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-JavaScript               4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-CSS                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Git                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 20 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-astrbot_plugin_disaster_w16 hrs 59 mins      ██████████████████████░░░   87.86 % 
-astrbot_plugin_count_loc 2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-
-💻 Operating System: 
-Windows                  19 hrs 20 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2033%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -105,7 +63,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年05月28日 10:13:31 UTC+8 UTC
+ Last Updated on 2026年05月29日 10:16:54 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
