@@ -48,53 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2027%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-🌆 Daytime                951 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-🌃 Evening                3398 commits        ██████████████░░░░░░░░░░░   56.30 % 
-🌙 Night                  1509 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Tuesday                  564 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Wednesday                988 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Thursday                 848 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   861 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 972 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Sunday                   1156 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   4 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.70 % 
-HTML                     2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Git                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 23 mins       ████████████████░░░░░░░░░   64.44 % 
-Code                     3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   35.56 % 
-
-🐱‍💻 Projects: 
-astrbot_plugin_count_loc 4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.65 % 
-astrbot_plugin_disaster_w2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-online_store             1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-astrbot_plugin_proactive_1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-💻 Operating System: 
-Windows                  9 hrs 54 mins       █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2045%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -109,7 +63,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年06月06日 10:18:47 UTC+8 UTC
+ Last Updated on 2026年06月07日 10:43:52 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
