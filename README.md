@@ -50,6 +50,48 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2045%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+🌆 Daytime                951 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+🌃 Evening                3413 commits        ██████████████░░░░░░░░░░░   56.41 % 
+🌙 Night                  1509 commits        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  564 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Wednesday                988 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Thursday                 848 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   867 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 981 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Sunday                   1156 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 29 mins        █████████████████░░░░░░░░   69.54 % 
+Batchfile                17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Git                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+
+🔥 Editors: 
+Code                     1 hr 8 mins         █████████████░░░░░░░░░░░░   53.12 % 
+VS Code                  1 hr                ████████████░░░░░░░░░░░░░   46.88 % 
+
+🐱‍💻 Projects: 
+astrbot_plugin_disaster_w2 hrs 8 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -63,7 +105,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年06月07日 10:43:52 UTC+8 UTC
+ Last Updated on 2026年06月08日 10:49:26 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
