@@ -53,21 +53,21 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-🌆 Daytime                951 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-🌃 Evening                3421 commits        ██████████████░░░░░░░░░░░   56.47 % 
-🌙 Night                  1509 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌞 Morning                147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+🌆 Daytime                809 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+🌃 Evening                2919 commits        ██████████████░░░░░░░░░░░   57.05 % 
+🌙 Night                  1242 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Tuesday                  564 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Wednesday                992 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Thursday                 849 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   870 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Saturday                 981 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Sunday                   1156 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Monday                   576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Tuesday                  497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Wednesday                844 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Thursday                 701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Friday                   739 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Saturday                 785 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Sunday                   975 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 ```
 
 
@@ -106,7 +106,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年06月12日 10:46:30 UTC+8 UTC
+ Last Updated on 2026年06月13日 10:37:55 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
