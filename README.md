@@ -54,20 +54,20 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 
 ```text
 🌞 Morning                177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-🌆 Daytime                952 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌃 Evening                3473 commits        ██████████████░░░░░░░░░░░   56.71 % 
-🌙 Night                  1522 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌆 Daytime                952 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌃 Evening                3481 commits        ██████████████░░░░░░░░░░░   56.77 % 
+🌙 Night                  1522 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Tuesday                  564 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Wednesday                1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Thursday                 852 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Friday                   887 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Saturday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Sunday                   1150 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Monday                   658 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Tuesday                  564 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Wednesday                1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Thursday                 852 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Sunday                   1150 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 ```
 
 
@@ -75,23 +75,23 @@ Sunday                   1150 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   42 mins             ██████████░░░░░░░░░░░░░░░   40.11 % 
-HTML                     37 mins             █████████░░░░░░░░░░░░░░░░   35.08 % 
-Markdown                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   42 mins             ███████████░░░░░░░░░░░░░░   42.29 % 
+HTML                     37 mins             █████████░░░░░░░░░░░░░░░░   36.98 % 
+Markdown                 19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Cursor                   55 mins             █████████████░░░░░░░░░░░░   52.30 % 
-Code                     29 mins             ███████░░░░░░░░░░░░░░░░░░   28.03 % 
-VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Cursor                   50 mins             ████████████░░░░░░░░░░░░░   49.71 % 
+Code                     29 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+VS Code                  21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w1 hr 5 mins         ███████████████░░░░░░░░░░   60.84 % 
-online_store             41 mins             ██████████░░░░░░░░░░░░░░░   39.16 % 
+astrbot_plugin_disaster_w59 mins             ███████████████░░░░░░░░░░   58.72 % 
+online_store             41 mins             ██████████░░░░░░░░░░░░░░░   41.28 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年06月19日 11:33:07 UTC+8 UTC
+ Last Updated on 2026年06月20日 10:38:19 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
