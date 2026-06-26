@@ -55,17 +55,17 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 ```text
 🌞 Morning                217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 🌆 Daytime                1182 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌃 Evening                4227 commits        ██████████████░░░░░░░░░░░   56.30 % 
-🌙 Night                  1882 commits        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+🌃 Evening                4228 commits        ██████████████░░░░░░░░░░░   56.31 % 
+🌙 Night                  1882 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   807 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 Tuesday                  687 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Wednesday                1201 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   1098 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Wednesday                1201 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 1053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Friday                   1099 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 Saturday                 1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Sunday                   1408 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 ```
@@ -75,19 +75,16 @@ Sunday                   1408 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     37 mins             ██████████████████████░░░   89.58 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████░░░░░░░░░░░░   50.21 % 
-Code                     17 mins             ██████████░░░░░░░░░░░░░░░   41.78 % 
-Cursor                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-online_store             41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +100,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年06月25日 10:36:03 UTC+8 UTC
+ Last Updated on 2026年06月26日 10:36:40 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
