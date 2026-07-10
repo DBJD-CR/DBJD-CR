@@ -75,22 +75,22 @@ Sunday                   1248 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 41 mins       ████████████████░░░░░░░░░   64.89 % 
-HTML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Git                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Python                   3 hrs 17 mins       ███████████████░░░░░░░░░░   60.40 % 
+HTML                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Git                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 13 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w6 hrs 48 mins       ████████████████████████░   94.30 % 
-online_store             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+astrbot_plugin_disaster_w5 hrs 8 mins        ████████████████████████░   94.36 % 
+online_store             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 astrbot_plugin_proactive_0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +106,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年07月09日 10:08:47 UTC+8 UTC
+ Last Updated on 2026年07月10日 10:07:20 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
