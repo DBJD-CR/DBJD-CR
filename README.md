@@ -112,7 +112,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 <!-- GitHub Stats -->
 <a href="#">
-  <img align="center" width="450" src="https://github-readme-streak-stats-xiaokang2022.vercel.app/?user=DBJD-CR&theme=transparent&hide_border=true" alt="DBJD-CR's Streak Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DBJD-CR&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
 </a>
 
 <a href="https://github.com/DBJD-CR/DBJD-CR">
