@@ -48,7 +48,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,24 +75,24 @@ Sunday                   1645 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   24 hrs 10 mins      ███████████████░░░░░░░░░░   60.60 % 
-JavaScript               3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-HTML                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-JSON                     2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-CSS                      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+Python                   18 hrs 35 mins      ███████████████░░░░░░░░░░   58.65 % 
+JavaScript               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+HTML                     2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+CSS                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 🔥 Editors: 
-Cursor                   39 hrs 47 mins      █████████████████████████   99.77 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Cursor                   31 hrs 36 mins      █████████████████████████   99.71 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w37 hrs 42 mins      ████████████████████████░   94.53 % 
-ChatAPI                  2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-deepseek_fable5_evidence.2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+astrbot_plugin_disaster_w29 hrs 30 mins      ███████████████████████░░   93.11 % 
+ChatAPI                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+deepseek_fable5_evidence.2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  39 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年07月24日 09:59:40 UTC+8 UTC
+ Last Updated on 2026年07月25日 10:00:48 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
