@@ -48,28 +48,28 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                295 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-🌆 Daytime                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-🌃 Evening                4984 commits        ██████████████░░░░░░░░░░░   56.00 % 
-🌙 Night                  2231 commits        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+🌞 Morning                295 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+🌆 Daytime                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+🌃 Evening                4986 commits        ██████████████░░░░░░░░░░░   55.77 % 
+🌙 Night                  2269 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Wednesday                1294 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Friday                   1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Saturday                 1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Sunday                   1773 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Monday                   943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Wednesday                1332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Friday                   1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Saturday                 1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Sunday                   1773 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 ```
 
 
@@ -77,37 +77,37 @@ Sunday                   1773 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   26 hrs 27 mins      █████████████████░░░░░░░░   69.78 % 
-JavaScript               3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Markdown                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-CSS                      2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Python                   23 hrs 46 mins      ████████████████░░░░░░░░░   65.57 % 
+JavaScript               3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Markdown                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+CSS                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-Cursor                   37 hrs 49 mins      █████████████████████████   99.76 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Cursor                   36 hrs 9 mins       █████████████████████████   99.75 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w37 hrs 49 mins      █████████████████████████   99.76 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+astrbot_plugin_disaster_w36 hrs 9 mins       █████████████████████████   99.75 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 deepseek_fable5_evidence.2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  37 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 50 mins (81.35%)
+⏱ AI Coding Time: 29 hrs 23 mins (81.07%)
 
-✍️ 0 lines written by AI, 8,363 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,501 lines written by hand (0.0% AI-written)
 
-🔤 253,306,957 Input Tokens, 2,603,204 Output Tokens
+🔤 223,173,702 Input Tokens, 2,369,445 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 0 AI Prompts
+🧠 46 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -129,7 +129,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年07月28日 09:54:17 UTC+8 UTC
+ Last Updated on 2026年07月29日 09:54:45 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
