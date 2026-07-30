@@ -48,26 +48,26 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                295 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-🌆 Daytime                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-🌃 Evening                4986 commits        ██████████████░░░░░░░░░░░   55.77 % 
-🌙 Night                  2269 commits        ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+🌆 Daytime                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌃 Evening                4988 commits        ██████████████░░░░░░░░░░░   55.78 % 
+🌙 Night                  2269 commits        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 Wednesday                1332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Friday                   1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Friday                   1330 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Saturday                 1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
 Sunday                   1773 commits        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 ```
@@ -77,37 +77,34 @@ Sunday                   1773 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   23 hrs 46 mins      ████████████████░░░░░░░░░   65.57 % 
-JavaScript               3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Markdown                 2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-CSS                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Python                   23 hrs 52 mins      ███████████████░░░░░░░░░░   59.82 % 
+JavaScript               5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Markdown                 3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+CSS                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Other                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Cursor                   36 hrs 9 mins       █████████████████████████   99.75 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Cursor                   39 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w36 hrs 9 mins       █████████████████████████   99.75 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-deepseek_fable5_evidence.2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+astrbot_plugin_disaster_w39 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 23 mins (81.07%)
+⏱ AI Coding Time: 32 hrs 3 mins (80.3%)
 
-✍️ 0 lines written by AI, 7,501 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,428 lines written by hand (0.0% AI-written)
 
-🔤 223,173,702 Input Tokens, 2,369,445 Output Tokens
+🔤 228,185,714 Input Tokens, 2,372,529 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 0 AI Prompts
+🧠 45 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -129,7 +126,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年07月29日 09:54:45 UTC+8 UTC
+ Last Updated on 2026年07月30日 09:38:00 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
