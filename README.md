@@ -48,9 +48,9 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -77,34 +77,35 @@ Sunday                   1763 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   23 hrs 10 mins      ███████████████░░░░░░░░░░   59.54 % 
-JavaScript               5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Markdown                 3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-CSS                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Other                    1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python                   28 hrs 17 mins      ███████████████░░░░░░░░░░   60.23 % 
+JavaScript               5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JSON                     3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Markdown                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+CSS                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-Cursor                   38 hrs 55 mins      █████████████████████████   100.00 % 
+Cursor                   46 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w38 hrs 55 mins      █████████████████████████   100.00 % 
+astrbot_plugin_disaster_w46 hrs 55 mins      █████████████████████████   99.87 % 
+astrbot_plugin_miochat   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  38 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 22 mins (80.59%)
+⏱ AI Coding Time: 37 hrs 57 mins (80.79%)
 
-✍️ 0 lines written by AI, 7,356 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 8,006 lines written by hand (0.0% AI-written)
 
-🔤 223,093,290 Input Tokens, 2,234,280 Output Tokens
+🔤 270,757,137 Input Tokens, 2,892,248 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 0 AI Prompts
+🧠 53 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -126,7 +127,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年07月31日 10:04:23 UTC+8 UTC
+ Last Updated on 2026年08月01日 10:05:35 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
