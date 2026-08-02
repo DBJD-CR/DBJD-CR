@@ -48,28 +48,28 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-188%20hrs%206%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                296 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-🌆 Daytime                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-🌃 Evening                4986 commits        ██████████████░░░░░░░░░░░   55.60 % 
-🌙 Night                  2295 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌞 Morning                296 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+🌆 Daytime                1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌃 Evening                5012 commits        ██████████████░░░░░░░░░░░   55.72 % 
+🌙 Night                  2297 commits        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Tuesday                  899 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Wednesday                1332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Friday                   1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Saturday                 1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Sunday                   1763 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Monday                   943 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Tuesday                  899 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Wednesday                1332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Thursday                 1185 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Friday                   1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Saturday                 1500 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Sunday                   1765 commits        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
 ```
 
 
@@ -77,35 +77,35 @@ Sunday                   1763 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   28 hrs 17 mins      ███████████████░░░░░░░░░░   60.23 % 
-JavaScript               5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JSON                     3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Markdown                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-CSS                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   28 hrs 21 mins      ███████████████░░░░░░░░░░   61.13 % 
+JavaScript               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+JSON                     3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Markdown                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+CSS                      2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Cursor                   46 hrs 59 mins      █████████████████████████   100.00 % 
+Cursor                   46 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w46 hrs 55 mins      █████████████████████████   99.87 % 
+astrbot_plugin_disaster_w46 hrs 19 mins      █████████████████████████   99.87 % 
 astrbot_plugin_miochat   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  46 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 57 mins (80.79%)
+⏱ AI Coding Time: 37 hrs 30 mins (80.86%)
 
-✍️ 0 lines written by AI, 8,006 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,915 lines written by hand (0.0% AI-written)
 
-🔤 270,757,137 Input Tokens, 2,892,248 Output Tokens
+🔤 267,970,227 Input Tokens, 2,895,392 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 0 AI Prompts
+🧠 55 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -127,7 +127,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年08月01日 10:05:35 UTC+8 UTC
+ Last Updated on 2026年08月02日 10:01:24 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
