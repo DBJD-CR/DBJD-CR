@@ -56,18 +56,18 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 
 ```text
 🌞 Morning                491 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-🌆 Daytime                1673 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-🌃 Evening                5776 commits        █████████████░░░░░░░░░░░░   51.74 % 
-🌙 Night                  3224 commits        ███████░░░░░░░░░░░░░░░░░░   28.88 % 
+🌆 Daytime                1673 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌃 Evening                5778 commits        █████████████░░░░░░░░░░░░   51.75 % 
+🌙 Night                  3224 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Monday                   1231 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 Tuesday                  1196 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 Wednesday                1620 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 Thursday                 1535 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Friday                   1751 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Friday                   1753 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 Saturday                 1916 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 Sunday                   1915 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 ```
@@ -77,44 +77,44 @@ Sunday                   1915 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 18 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.76 % 
-Python                   16 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   34.26 % 
-GDScript3                3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-JavaScript               2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JSON                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown                 15 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   41.49 % 
+Python                   10 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+GDScript3                3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+CSS                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🔥 Editors: 
-Cursor                   45 hrs              ███████████████████████░░   93.58 % 
-Agent                    3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Cursor                   35 hrs 8 mins       ███████████████████████░░   92.88 % 
+Agent                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w43 hrs              ██████████████████████░░░   89.39 % 
-Operation_Hexahedron     4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-live-dashboard           43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Operation：Hexahedron     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+astrbot_plugin_disaster_w32 hrs 43 mins      ██████████████████████░░░   86.51 % 
+Operation_Hexahedron     4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+live-dashboard           43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Operation：Hexahedron     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  48 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  37 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 59 mins (66.51%)
+⏱ AI Coding Time: 24 hrs 58 mins (66.0%)
 
-✍️ 0 lines written by AI, 8,635 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,072 lines written by hand (0.0% AI-written)
 
-🔤 282,572,739 Input Tokens, 4,378,783 Output Tokens
+🔤 197,594,651 Input Tokens, 3,372,425 Output Tokens
 
-💵 $24.01 Estimated AI Cost This Week
+💵 $19.63 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 585 AI Prompts
+🧠 75 AI Sessions, 466 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 7,430 characters per prompt
+📚 Verbose Prompter — average 7,242 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -132,7 +132,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年08月24日 08:51:52 UTC+8 UTC
+ Last Updated on 2026年08月25日 08:53:27 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
