@@ -48,28 +48,28 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-291%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                657 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-🌆 Daytime                1839 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-🌃 Evening                6121 commits        ████████████░░░░░░░░░░░░░   48.86 % 
-🌙 Night                  3911 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌆 Daytime                1818 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+🌃 Evening                6135 commits        ████████████░░░░░░░░░░░░░   48.91 % 
+🌙 Night                  3934 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1384 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Tuesday                  1428 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Wednesday                1814 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Thursday                 1785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Friday                   1948 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 2204 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Sunday                   1965 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Monday                   1407 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Tuesday                  1430 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Wednesday                1813 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Thursday                 1769 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   1936 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Saturday                 2204 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Sunday                   1985 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 
 
@@ -77,45 +77,45 @@ Sunday                   1965 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        ██████████████░░░░░░░░░░░   55.06 % 
-Bash                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Batchfile                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Markdown                 3 hrs 1 min         █████████████░░░░░░░░░░░░   52.30 % 
+Python                   2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Cursor                   1 hr 41 mins        ██████████████████░░░░░░░   72.60 % 
-Agent                    38 mins             ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Cursor                   4 hrs 52 mins       █████████████████████░░░░   84.21 % 
+Agent                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.08 % 
-live-dashboard           43 mins             ████████░░░░░░░░░░░░░░░░░   30.91 % 
-astrbot_plugin_proactive_28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-astrbot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+astrbot_plugin_count_loc 2 hrs 54 mins       █████████████░░░░░░░░░░░░   50.21 % 
+astrbot_plugin_proactive_2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.84 % 
+astrbot_plugin_disaster_w32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+astrbot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (93.55%)
+⏱ AI Coding Time: 4 hrs 7 mins (71.28%)
 
-✍️ 0 lines written by AI, 255 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,090 lines written by hand (0.0% AI-written)
 
-🔤 13,313,563 Input Tokens, 151,117 Output Tokens
+🔤 11,152,171 Input Tokens, 395,071 Output Tokens
 
-💵 $0.99 Estimated AI Cost This Week
+💵 $1.62 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 51 AI Prompts
+🧠 18 AI Sessions, 75 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,457 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 4,195 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -132,7 +132,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年08月30日 10:41:31 UTC+8 UTC
+ Last Updated on 2026年08月31日 10:35:02 UTC+8 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats -->
