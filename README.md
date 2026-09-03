@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="45%" valign="top">
+<td valign="top">
 
 ```json
 {
@@ -36,25 +36,20 @@
 ```
 
 </td>
-<td width="55%" align="center" valign="middle">
+</tr>
+<tr>
+<td width="50%" valign="middle">
 
 <table>
 <tr>
-<td align="center" style="vertical-align: middle;">
+<td align="center" valign="middle">
 
 <img alt="AstrBot Trending" src="assets/astrbot-trending.svg" width="260" height="55" />
 
 </td>
 </tr>
 <tr>
-<td align="center" style="vertical-align: middle;">
-
-<img alt="cute_picture" src="https://github.com/user-attachments/assets/e320feef-e76c-4382-af2b-64442f744e2f" width="288" height="288" style="border-radius: 50%;">
-
-</td>
-</tr>
-<tr>
-<td align="center" style="vertical-align: middle;">
+<td align="center" valign="middle">
 
 I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探索者。目前正在学习多个与 AI 相关的项目！
 
@@ -65,6 +60,11 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 </td>
 </tr>
 </table>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img alt="cute_picture" src="https://github.com/user-attachments/assets/e320feef-e76c-4382-af2b-64442f744e2f" width="288" height="288" style="border-radius: 50%;">
 
 </td>
 </tr>
