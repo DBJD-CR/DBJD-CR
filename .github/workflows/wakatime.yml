@@ -9,10 +9,21 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    # 本地修复版 action 需要把更新后的 README 推回 main 分支
+    permissions:
+      contents: write
     # v1.0.0 修复: 为机器人运行环境设置时区为 UTC+8
     env:
       TZ: 'Asia/Shanghai'
     steps:
+      # 使用本地 action 前必须先 checkout 仓库，否则 Runner 找不到 action.yml / Dockerfile
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 本地 action 需要在容器内克隆 username/username 仓库并推送回 main，
+          # 所以这里需要检出全部历史（默认 checkout 是浅克隆，可能影响 action 内部的 git 操作）
+          fetch-depth: 0
+
       # 使用本仓库内的修复版 action（去除了跨分支重复统计 commit 的 bug）
       - uses: ./.github/actions/waka-readme-stats-fixed
         with:
