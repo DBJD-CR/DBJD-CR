@@ -33,12 +33,12 @@
 
 <table>
 <tr>
-<td width="55%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 <img alt="AstrBot Trending" src="assets/astrbot-trending.svg" width="260" height="55" />
 
 </td>
-<td width="45%" rowspan="2" align="center" valign="middle">
+<td width="40%" rowspan="2" align="center" valign="middle">
 
 <img alt="cute_picture" src="https://github.com/user-attachments/assets/e320feef-e76c-4382-af2b-64442f744e2f" width="288" height="288" style="border-radius: 50%;">
 
