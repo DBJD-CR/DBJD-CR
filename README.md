@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="45%" valign="top">
 
 ```json
 {
@@ -28,24 +28,6 @@
   },
   "major": "Network & New Media",
   "role": "AstrBot Plugin Developer",
-  "projects": [
-    {
-      "name": "astrbot_plugin_disaster_warning",
-      "url": "https://github.com/Pancakes-Labs/astrbot_plugin_disaster_warning"
-    },
-    {
-      "name": "astrbot_plugin_proactive_chat",
-      "url": "https://github.com/Pancakes-Labs/astrbot_plugin_proactive_chat"
-    },
-    {
-      "name": "astrbot_plugin_live_dashboard",
-      "url": "https://github.com/Pancakes-Labs/astrbot_plugin_live_dashboard"
-    },
-    {
-      "name": "astrbot_plugin_count_loc",
-      "url": "https://github.com/Pancakes-Labs/astrbot_plugin_count_loc"
-    }
-  ],
   "contributor_of": ["AstrBot", "LingChat", "ChatAPI"],
   "interests": ["Coding", "LLM Agents", "Full-Stack Dev", "Open Source"],
   "hobbies": ["Speedcubing", "Piano", "FPS Gaming", "Bilibili Content Creator"],
@@ -54,7 +36,7 @@
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="55%" align="center" valign="middle">
 
 <table>
 <tr>
