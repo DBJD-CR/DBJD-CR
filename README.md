@@ -364,6 +364,10 @@ CSS                      1 repo              █░░░░░░░░░░�
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DBJD-CR/DBJD-CR/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution calendar, night rainbow theme" width="100%" />
+</p>
+
 ## 💬 The Truth of Myself
 
 ```python
