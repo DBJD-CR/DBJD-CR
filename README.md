@@ -357,16 +357,16 @@ CSS                      1 repo              █░░░░░░░░░░�
   <img width="500" alt="current_streak" src="https://github-readme-streak-stats.herokuapp.com?user=DBJD-CR&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7" />
 </a>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution calendar, night rainbow theme" width="100%" />
+</p>
+
 <!-- 贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DBJD-CR/DBJD-CR/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DBJD-CR/DBJD-CR/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DBJD-CR/DBJD-CR/output/github-contribution-grid-snake.svg">
 </picture>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution calendar, night rainbow theme" width="100%" />
-</p>
 
 ## 💬 The Truth of Myself
 
