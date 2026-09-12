@@ -284,45 +284,45 @@ Sunday                   444 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 21 mins       ████████████░░░░░░░░░░░░░   47.68 % 
-Python                   5 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Python                   5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.98 % 
+Markdown                 4 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-Cursor                   17 hrs 47 mins      ███████████████████████░░   90.70 % 
-Agent                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Cursor                   12 hrs 2 mins       ██████████████████████░░░   88.37 % 
+Agent                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
-DBJD-CR                  4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-astrbot_plugin_helloworld2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-astrbot_plugin_github_car1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-astrbot_plugin_live_dashb1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+astrbot_plugin_disaster_w5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.46 % 
+astrbot_plugin_helloworld2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+astrbot_plugin_github_car1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+github-profile-3d-contrib1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+astrbot                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-Windows                  19 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 29 mins (63.67%)
+⏱ AI Coding Time: 9 hrs 27 mins (69.38%)
 
-✍️ 0 lines written by AI, 2,493 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,994 lines written by hand (0.0% AI-written)
 
-🔤 69,742,483 Input Tokens, 1,401,532 Output Tokens
+🔤 54,694,064 Input Tokens, 1,092,181 Output Tokens
 
-💵 $5.99 Estimated AI Cost This Week
+💵 $4.20 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 265 AI Prompts
+🧠 34 AI Sessions, 192 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,025 characters per prompt
+📚 Verbose Prompter — average 4,861 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -340,7 +340,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年09月11日 10:17:11 UTC+8
+ Last Updated on 2026年09月12日 10:21:42 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
