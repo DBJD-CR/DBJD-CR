@@ -284,46 +284,22 @@ Sunday                   444 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.72 % 
-Python                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 hrs 45 mins       ███████████████████████░░   90.07 % 
-Agent                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.60 % 
-github-profile-3d-contrib1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   32.80 % 
-astrbot                  41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-DBJD-CR                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 34 mins (61.87%)
-
-✍️ 0 lines written by AI, 411 lines written by hand (0.0% AI-written)
-
-🔤 13,222,018 Input Tokens, 271,503 Output Tokens
-
-💵 $0.71 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 38 AI Prompts
-
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 4,175 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -339,7 +315,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年09月13日 10:21:01 UTC+8
+ Last Updated on 2026年09月14日 10:37:33 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
