@@ -255,28 +255,28 @@ AstrBot 是一个开源的一站式 Agent 聊天机器人平台，可接入主�
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-312%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-314%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-🌆 Daytime                407 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-🌃 Evening                1262 commits        ████████████░░░░░░░░░░░░░   46.65 % 
-🌙 Night                  891 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌞 Morning                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+🌆 Daytime                407 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌃 Evening                1268 commits        ████████████░░░░░░░░░░░░░   46.77 % 
+🌙 Night                  891 commits         ████████░░░░░░░░░░░░░░░░░   32.87 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday                  301 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Wednesday                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Thursday                 387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 469 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Sunday                   444 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Monday                   322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Tuesday                  307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Wednesday                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Thursday                 387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 469 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Sunday                   444 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 ```
 
 
@@ -284,22 +284,43 @@ Sunday                   444 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     59 mins             ██████████░░░░░░░░░░░░░░░   39.89 % 
+Python                   49 mins             ████████░░░░░░░░░░░░░░░░░   32.73 % 
+JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr 58 mins        ████████████████████░░░░░   78.48 % 
+Agent                    32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+astrbot_plugin_disaster_w2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 2 mins (81.55%)
+
+✍️ 0 lines written by AI, 341 lines written by hand (0.0% AI-written)
+
+🔤 9,083,162 Input Tokens, 153,090 Output Tokens
+
+💵 $0.52 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 24 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 4,827 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -315,7 +336,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年09月22日 10:38:54 UTC+8
+ Last Updated on 2026年09月23日 10:39:28 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
