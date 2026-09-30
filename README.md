@@ -284,43 +284,43 @@ Sunday                   464 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 54 mins       ██████████████░░░░░░░░░░░   57.59 % 
-Markdown                 2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Git                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   9 hrs 5 mins        ███████████████░░░░░░░░░░   61.83 % 
+Markdown                 2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Git                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+PowerShell               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 18 mins      ████████████████████████░   94.72 % 
-Agent                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Cursor                   14 hrs 20 mins      ████████████████████████░   97.49 % 
+Agent                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w9 hrs 17 mins       █████████████░░░░░░░░░░░░   53.97 % 
-astrbot_plugin_proactive_7 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.03 % 
+astrbot_plugin_proactive_7 hrs 55 mins       █████████████░░░░░░░░░░░░   53.87 % 
+astrbot_plugin_disaster_w6 hrs 46 mins       ████████████░░░░░░░░░░░░░   46.13 % 
 
 💻 Operating System: 
-Windows                  17 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 2 mins (75.77%)
+⏱ AI Coding Time: 10 hrs 59 mins (74.78%)
 
-✍️ 0 lines written by AI, 4,432 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,091 lines written by hand (0.0% AI-written)
 
-🔤 77,813,310 Input Tokens, 1,462,918 Output Tokens
+🔤 68,730,148 Input Tokens, 1,309,828 Output Tokens
 
-💵 $0.84 Estimated AI Cost This Week
+💵 $0.32 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 57 AI Prompts
+🧠 26 AI Sessions, 33 AI Prompts
 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 3,296 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,182 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -337,7 +337,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年09月29日 11:31:33 UTC+8
+ Last Updated on 2026年09月30日 11:15:50 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
