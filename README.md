@@ -255,9 +255,9 @@ AstrBot 是一个开源的一站式 Agent 聊天机器人平台，可接入主�
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-330%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2014%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -284,32 +284,32 @@ Sunday                   464 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 52 mins       █████████████░░░░░░░░░░░░   53.25 % 
-Markdown                 2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.56 % 
-Git                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   4 hrs 56 mins       ███████████████░░░░░░░░░░   60.61 % 
+Markdown                 2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 16 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w6 hrs 3 mins        █████████████████████░░░░   83.17 % 
-astrbot_plugin_proactive_45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-astrbot_plugin_shadow_ban27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+astrbot_plugin_disaster_w5 hrs 20 mins       ████████████████░░░░░░░░░   65.56 % 
+astrbot_plugin_proactive_2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+astrbot_plugin_shadow_ban27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 💻 Operating System: 
-Windows                  7 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 57 mins (68.11%)
+⏱ AI Coding Time: 5 hrs 37 mins (69.15%)
 
-✍️ 0 lines written by AI, 3,189 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,674 lines written by hand (0.0% AI-written)
 
-🔤 41,563,434 Input Tokens, 596,392 Output Tokens
+🔤 64,947,396 Input Tokens, 720,321 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
@@ -335,7 +335,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年10月07日 11:34:44 UTC+8
+ Last Updated on 2026年10月08日 11:50:18 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
