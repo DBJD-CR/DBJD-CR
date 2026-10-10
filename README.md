@@ -255,28 +255,28 @@ AstrBot 是一个开源的一站式 Agent 聊天机器人平台，可接入主�
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-853%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-🌆 Daytime                453 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-🌃 Evening                1317 commits        ████████████░░░░░░░░░░░░░   46.28 % 
-🌙 Night                  931 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
+🌞 Morning                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+🌆 Daytime                453 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌃 Evening                1368 commits        ████████████░░░░░░░░░░░░░   47.22 % 
+🌙 Night                  931 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Wednesday                403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Thursday                 399 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Friday                   420 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 506 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Sunday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Wednesday                403 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday                 399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Friday                   471 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 506 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Sunday                   464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
 ```
 
 
@@ -284,36 +284,38 @@ Sunday                   464 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 42 mins       █████████████████░░░░░░░░   66.61 % 
-Markdown                 2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Python                   5 hrs 58 mins       █████████████████░░░░░░░░   68.55 % 
+Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Git                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 34 mins       █████████████████████████   100.00 % 
+Cursor                   8 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_disaster_w4 hrs 59 mins       ███████████████░░░░░░░░░░   58.21 % 
-astrbot_plugin_proactive_3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.44 % 
-astrbot_plugin_shadow_ban27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+astrbot_plugin_proactive_5 hrs 33 mins       ████████████████░░░░░░░░░   63.71 % 
+astrbot_plugin_disaster_w1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+slugcatpet               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+astrbot_plugin_shadow_ban27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+awesome_issue_pr_label   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Windows                  8 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (67.92%)
+⏱ AI Coding Time: 6 hrs 5 mins (69.99%)
 
-✍️ 0 lines written by AI, 4,994 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,967 lines written by hand (0.0% AI-written)
 
-🔤 72,090,218 Input Tokens, 812,674 Output Tokens
+🔤 65,235,715 Input Tokens, 676,624 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 0 AI Prompts
+🧠 9 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -335,7 +337,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年10月09日 11:53:50 UTC+8
+ Last Updated on 2026年10月10日 11:36:35 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
