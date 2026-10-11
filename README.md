@@ -255,9 +255,9 @@ AstrBot 是一个开源的一站式 Agent 聊天机器人平台，可接入主�
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-857%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-339%20hrs%2049%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -284,38 +284,37 @@ Sunday                   464 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 58 mins       █████████████████░░░░░░░░   68.55 % 
-Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Git                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   10 hrs 16 mins      ███████████████████░░░░░░   74.08 % 
+Markdown                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Git                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+PowerShell               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 42 mins       █████████████████████████   100.00 % 
+Cursor                   13 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_5 hrs 33 mins       ████████████████░░░░░░░░░   63.71 % 
-astrbot_plugin_disaster_w1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-slugcatpet               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-astrbot_plugin_shadow_ban27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-awesome_issue_pr_label   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+slugcatpet               7 hrs 30 mins       ██████████████░░░░░░░░░░░   54.09 % 
+astrbot_plugin_proactive_5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.01 % 
+astrbot_plugin_disaster_w42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+awesome_issue_pr_label   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Windows                  8 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 5 mins (69.99%)
+⏱ AI Coding Time: 10 hrs 52 mins (78.37%)
 
-✍️ 0 lines written by AI, 4,967 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 5,525 lines written by hand (0.0% AI-written)
 
-🔤 65,235,715 Input Tokens, 676,624 Output Tokens
+🔤 112,386,026 Input Tokens, 1,535,624 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 0 AI Prompts
+🧠 17 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -327,17 +326,17 @@ Windows                  8 hrs 42 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   18 repos            █████████████████░░░░░░░░   66.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   19 repos            █████████████████░░░░░░░░   67.86 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 2026年10月10日 11:36:35 UTC+8
+ Last Updated on 2026年10月11日 11:08:47 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
