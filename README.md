@@ -255,9 +255,9 @@ AstrBot 是一个开源的一站式 Agent 聊天机器人平台，可接入主�
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-350%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2019%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -284,37 +284,39 @@ Sunday                   478 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 45 mins      █████████████████████░░░░   85.65 % 
-Markdown                 2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Git                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   11 hrs 52 mins      █████████████████████░░░░   85.97 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Git                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 34 mins      █████████████████████████   100.00 % 
+Cursor                   13 hrs 41 mins      █████████████████████████   99.12 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-slugcatpet               18 hrs 24 mins      ████████████████████████░   94.10 % 
-astrbot_plugin_shadow_ban45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-live-dashboard           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-astrbot_plugin_proactive_9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+slugcatpet               11 hrs 54 mins      ██████████████████████░░░   86.22 % 
+astrbot_plugin_shadow_ban45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+astrbot_plugin_proactive_38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+astrbot_plugin_disaster_w16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+live-dashboard           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Windows                  19 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 1 min (86.98%)
+⏱ AI Coding Time: 11 hrs 32 mins (83.59%)
 
-✍️ 0 lines written by AI, 5,677 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,771 lines written by hand (0.0% AI-written)
 
-🔤 189,736,025 Input Tokens, 2,976,560 Output Tokens
+🔤 127,499,970 Input Tokens, 2,018,822 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 0 AI Prompts
+🧠 33 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -336,7 +338,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年10月17日 10:22:51 UTC+8
+ Last Updated on 2026年10月18日 10:23:13 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
