@@ -284,37 +284,36 @@ Sunday                   512 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        ███████████░░░░░░░░░░░░░░   45.47 % 
-CSS                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Python                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               1 hr 23 mins        ████████████░░░░░░░░░░░░░   47.80 % 
+CSS                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Python                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 57 mins       ████████████████████████░   96.05 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Cursor                   2 hrs 48 mins       ████████████████████████░   95.85 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_2 hrs 39 mins       ██████████████████████░░░   86.24 % 
-astrbot_plugin_disaster_w16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-slugcatpet               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+astrbot_plugin_proactive_2 hrs 39 mins       ███████████████████████░░   90.67 % 
+astrbot_plugin_disaster_w16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 💻 Operating System: 
-Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (87.82%)
+⏱ AI Coding Time: 2 hrs 33 mins (87.19%)
 
 ✍️ 0 lines written by AI, 1,485 lines written by hand (0.0% AI-written)
 
-🔤 41,239,423 Input Tokens, 425,757 Output Tokens
+🔤 40,910,969 Input Tokens, 419,493 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 0 AI Prompts
+🧠 7 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -336,7 +335,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年10月23日 10:47:18 UTC+8
+ Last Updated on 2026年10月24日 10:45:45 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
