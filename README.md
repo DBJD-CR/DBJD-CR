@@ -284,36 +284,34 @@ Sunday                   512 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 23 mins        ████████████░░░░░░░░░░░░░   47.80 % 
-CSS                      42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Python                   26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+JavaScript               1 hr 10 mins        █████████████░░░░░░░░░░░░   53.87 % 
+CSS                      42 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Git                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 48 mins       ████████████████████████░   95.85 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Cursor                   2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_2 hrs 39 mins       ███████████████████████░░   90.67 % 
-astrbot_plugin_disaster_w16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+astrbot_plugin_proactive_2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 33 mins (87.19%)
+⏱ AI Coding Time: 2 hrs 5 mins (95.99%)
 
-✍️ 0 lines written by AI, 1,485 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,382 lines written by hand (0.0% AI-written)
 
-🔤 40,910,969 Input Tokens, 419,493 Output Tokens
+🔤 38,268,318 Input Tokens, 353,730 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 0 AI Prompts
+🧠 4 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -335,7 +333,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年10月24日 10:45:45 UTC+8
+ Last Updated on 2026年10月25日 10:32:51 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
