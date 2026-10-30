@@ -90,7 +90,13 @@ class GitHubManager:
 
         rmtree(clone_path, ignore_errors=True)
         GitHubManager.REPO = Repo.clone_from(GitHubManager._REPO_PATH, to_path=clone_path)
-
+        # 兼容 curl>=8.23（CVE-2026-94266 修复）与尚未跟进补丁的 git：
+        # push 中途 git 会误判“重定向”并丢弃 URL 内嵌凭据，导致 401 后提示输入用户名。
+        # credential helper 可在凭据丢失时补供认证信息，绕过该 bug。
+        GitHubManager.REPO.git.config(
+            "credential.helper",
+            "!f() { echo username=x-access-token; echo password=" + push_token + "; }; f",
+        )
         if EM.COMMIT_SINGLE:
             GitHubManager.REPO.git.checkout(GitHubManager.branch(EM.PULL_BRANCH_NAME))
             GitHubManager.REPO.git.checkout("--orphan", GitHubManager._SINGLE_COMMIT_BRANCH)
