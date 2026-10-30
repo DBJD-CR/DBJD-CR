@@ -1,3 +1,6 @@
+<!-- markdownlint-disable MD009 -->
+<!-- markdownlint-disable MD012 -->
+<!-- markdownlint-disable MD031 -->
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD036 -->
 <!-- markdownlint-disable MD041 -->
@@ -24,7 +27,7 @@
   },
   "major": "Network & New Media",
   "role": "AstrBot Plugin Developer",
-  "contributor_of": ["AstrBot", "LingChat", "ChatAPI"],
+  "contributor_of": ["AstrBot", "LingChat", "slugcatpet", "ChatAPI"],
   "interests": ["Coding", "LLM Agents", "Full-Stack Dev", "Open Source"],
   "hobbies": ["Speedcubing", "Piano", "FPS Gaming", "Bilibili Content Creator"],
   "fun_fact": "一个准备抢走985计算机毕业生饭碗的二本文科生"
@@ -95,7 +98,7 @@ I'm **DBJD-CR** （大饼鸡蛋），一名热爱开源社区与 AI 开发的探
 
 我还喜欢这些项目，有能力的话请支持原作者：
 
-<!-- 推荐项目 (2x3) -->
+<!-- 推荐项目 (2x4) -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -142,6 +145,22 @@ AstrBot 是一个开源的一站式 Agent 聊天机器人平台，可接入主�
 ### [ChatAPI](https://github.com/zyf2007/ChatAPI)
 
 把你自己装进 OpenAI responses API 里面，扮演 Assistant 和用户聊天（
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [slugcatpet](https://github.com/lingxiaojun/slugcatpet)
+
+Windows 桌面宠物：让 Rain World 的蛞蝓猫住在你的屏幕上。
+
+</td>
+<td width="50%" valign="top">
+
+### [CGOIRankList](https://github.com/aWinHimOP/CGOIRankList)
+
+中国掘地求升排行榜。
 
 </td>
 </tr>
