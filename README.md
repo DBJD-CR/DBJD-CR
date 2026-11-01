@@ -274,28 +274,28 @@ Windows 桌面宠物：让 Rain World 的蛞蝓猫住在你的屏幕上。
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-357%20hrs%2014%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-🌆 Daytime                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-🌃 Evening                1402 commits        ████████████░░░░░░░░░░░░░   47.28 % 
-🌙 Night                  942 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌞 Morning                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+🌆 Daytime                476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+🌃 Evening                1402 commits        ████████████░░░░░░░░░░░░░   46.95 % 
+🌙 Night                  963 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Saturday                 506 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Sunday                   512 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Monday                   355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Tuesday                  309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Thursday                 400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   477 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Saturday                 506 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Sunday                   533 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 ```
 
 
@@ -303,30 +303,30 @@ Sunday                   512 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.81 % 
-Python                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.81 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
+Python                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 24 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_1 hr 58 mins        ███████████░░░░░░░░░░░░░░   44.80 % 
-astrbot_plugin_disaster_w1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-DBJD-CR                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-astrbot_plugin_shadow_ban36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-live-dashboard           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+astrbot_plugin_proactive_1 hr 59 mins        ███████████░░░░░░░░░░░░░░   45.05 % 
+astrbot_plugin_disaster_w1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+DBJD-CR                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+astrbot_plugin_shadow_ban36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+live-dashboard           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (87.25%)
+⏱ AI Coding Time: 3 hrs 50 mins (86.85%)
 
 ✍️ 0 lines written by AI, 904 lines written by hand (0.0% AI-written)
 
@@ -356,7 +356,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年10月31日 11:32:39 UTC+8
+ Last Updated on 2026年11月01日 11:31:43 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
