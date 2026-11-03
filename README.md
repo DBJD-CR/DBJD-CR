@@ -303,38 +303,38 @@ Sunday                   533 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   36.65 % 
-Python                   1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Markdown                 4 hrs 17 mins       ██████████████░░░░░░░░░░░   57.07 % 
+Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 25 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_1 hr 59 mins        ███████████░░░░░░░░░░░░░░   45.05 % 
-astrbot_plugin_disaster_w1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-DBJD-CR                  46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-astrbot_plugin_shadow_ban36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-live-dashboard           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+astrbot_plugin_proactive_4 hrs 10 mins       ██████████████░░░░░░░░░░░   55.53 % 
+astrbot_plugin_shadow_ban1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+astrbot_plugin_disaster_w1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+DBJD-CR                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+live-dashboard           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (86.85%)
+⏱ AI Coding Time: 6 hrs 12 mins (82.45%)
 
-✍️ 0 lines written by AI, 904 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,237 lines written by hand (0.0% AI-written)
 
-🔤 29,883,184 Input Tokens, 416,455 Output Tokens
+🔤 41,850,245 Input Tokens, 511,687 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 0 AI Prompts
+🧠 14 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -356,7 +356,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年11月02日 11:41:25 UTC+8
+ Last Updated on 2026年11月03日 12:50:15 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
