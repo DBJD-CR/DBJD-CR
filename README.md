@@ -274,9 +274,9 @@ Windows 桌面宠物：让 Rain World 的蛞蝓猫住在你的屏幕上。
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-359%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-360%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -303,34 +303,34 @@ Sunday                   533 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 17 mins       ██████████████░░░░░░░░░░░   57.07 % 
-Python                   1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown                 4 hrs 29 mins       ███████████████░░░░░░░░░░   59.37 % 
+Python                   1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 31 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_4 hrs 10 mins       ██████████████░░░░░░░░░░░   55.53 % 
-astrbot_plugin_shadow_ban1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-astrbot_plugin_disaster_w1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-DBJD-CR                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+astrbot_plugin_proactive_4 hrs 12 mins       ██████████████░░░░░░░░░░░   55.73 % 
+astrbot_plugin_shadow_ban1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+astrbot_plugin_disaster_w1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+DBJD-CR                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 live-dashboard           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  7 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 12 mins (82.45%)
+⏱ AI Coding Time: 6 hrs 16 mins (82.93%)
 
-✍️ 0 lines written by AI, 1,237 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,184 lines written by hand (0.0% AI-written)
 
-🔤 41,850,245 Input Tokens, 511,687 Output Tokens
+🔤 42,777,459 Input Tokens, 544,636 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
@@ -356,7 +356,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年11月03日 12:50:15 UTC+8
+ Last Updated on 2026年11月04日 12:09:10 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
