@@ -274,9 +274,9 @@ Windows 桌面宠物：让 Rain World 的蛞蝓猫住在你的屏幕上。
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-909%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-379%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-381%20hrs%2026%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -303,30 +303,30 @@ Sunday                   585 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 56 mins      ██████████████░░░░░░░░░░░   54.15 % 
-JavaScript               3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Markdown                 3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-CSS                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Python                   13 hrs 6 mins       █████████████░░░░░░░░░░░░   53.32 % 
+JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Markdown                 3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+CSS                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🔥 Editors: 
-Cursor                   22 hrs 3 mins       █████████████████████████   100.00 % 
+Cursor                   24 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astrbot_plugin_proactive_22 hrs 3 mins       █████████████████████████   100.00 % 
+astrbot_plugin_proactive_24 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 13 mins (87.14%)
+⏱ AI Coding Time: 21 hrs 23 mins (87.0%)
 
-✍️ 0 lines written by AI, 6,471 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 7,703 lines written by hand (0.0% AI-written)
 
-🔤 246,916,029 Input Tokens, 1,825,356 Output Tokens
+🔤 277,305,944 Input Tokens, 1,938,342 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
@@ -352,7 +352,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年11月10日 13:29:05 UTC+8
+ Last Updated on 2026年11月11日 12:01:00 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
