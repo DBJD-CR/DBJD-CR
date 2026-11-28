@@ -274,9 +274,9 @@ Windows 桌面宠物：让 Rain World 的蛞蝓猫住在你的屏幕上。
   
   <!-- WakaTime Section -->
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-461%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-464%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -303,36 +303,35 @@ Sunday                   585 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       28 hrs 37 mins      █████████████████░░░░░░░░   69.16 % 
-JSON                     3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Python                   2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JavaScript               2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-PowerShell               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+C#                       25 hrs 5 mins       █████████████████░░░░░░░░   67.30 % 
+JSON                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Python                   2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JavaScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Cursor                   41 hrs 23 mins      █████████████████████████   100.00 % 
+Cursor                   37 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PeakCSR                  38 hrs 26 mins      ███████████████████████░░   92.86 % 
-astrbot_plugin_proactive_2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-awesome_issue_pr_label   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+PeakCSR                  34 hrs 22 mins      ███████████████████████░░   92.18 % 
+astrbot_plugin_proactive_2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 💻 Operating System: 
-Windows                  41 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 hrs 49 mins (88.97%)
+⏱ AI Coding Time: 32 hrs 56 mins (88.33%)
 
-✍️ 0 lines written by AI, 13,241 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 13,393 lines written by hand (0.0% AI-written)
 
-🔤 673,089,657 Input Tokens, 5,776,776 Output Tokens
+🔤 630,817,529 Input Tokens, 5,235,972 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 0 AI Prompts
+🧠 46 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -354,7 +353,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026年11月27日 14:05:38 UTC+8
+ Last Updated on 2026年11月28日 13:46:40 UTC+8
 <!--END_SECTION:waka-->
 
 </details>
